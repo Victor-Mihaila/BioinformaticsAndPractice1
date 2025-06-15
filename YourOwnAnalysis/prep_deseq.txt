@@ -1,6 +1,0 @@
-CLIP-35L33G  ./ballgown/CLIP-35L33G/CLIP-35L33G.gtf
-RNA-control  ./ballgown/RNA-control/RNA-control.gtf
-RNA-siLin28a  ./ballgown/RNA-siLin28a/RNA-siLin28a.gtf
-RNA-siLuc  ./ballgown/RNA-siLuc/RNA-siLuc.gtf
-RPF-siLin28a  ./ballgown/RPF-siLin28a/RPF-siLin28a.gtf
-RPF-siLuc  ./ballgown/RPF-siLuc/RPF-siLuc.gtf

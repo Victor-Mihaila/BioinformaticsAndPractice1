@@ -1,6 +1,0 @@
-stringtie/RNA-control.gtf
-stringtie/RNA-siLin28a.gtf
-stringtie/RNA-siLuc.gtf
-stringtie/RPF-siLin28a.gtf
-stringtie/RPF-siLuc.gtf
-stringtie/CLIP-35L33G.gtf
